@@ -127,6 +127,7 @@ void loop() // run over and over
 //          Serial.print(", ");
 //          Serial.println(cmd_y, DEC);
           break;
+        %% hi
       }
   }
   
